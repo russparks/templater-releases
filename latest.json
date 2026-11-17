@@ -1,8 +1,11 @@
 {
- "version": "v1.93",
+ "version": "v1.94",
  "date": "2026-11-17",
  "notes": [
-  "Releases are now published to the public templater-releases repo, so the update banner and Download button work for colleagues."
+  "Type pills shortened: Doc, Train, Alert, Blank.",
+  "Home screen: a folder button on the left of every project row (move to a folder); always visible.",
+  "Save menu simplified: Save, Duplicate, Open file, Upload photos as icons across the top; recent versions; Saved versions at the foot (red).",
+  "Blank Page: the footer banner repeats the minor title (or the category when there is none); footer blocks 20% narrower on portrait; the GMI end page takes the category colour."
  ],
  "zip": "GMI-Templater-App.zip"
 }
