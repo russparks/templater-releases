@@ -1,8 +1,8 @@
 {
- "version": "v1.92",
+ "version": "v1.93",
  "date": "2026-11-17",
  "notes": [
-  "Updates: the home screen shows a banner when a newer version is out, and Help & updates gives step-by-step instructions (Windows and Mac) with a Download button. Releases are published to the public templater-releases repo by tools/release.py."
+  "Releases are now published to the public templater-releases repo, so the update banner and Download button work for colleagues."
  ],
  "zip": "GMI-Templater-App.zip"
 }
