@@ -1,11 +1,5 @@
 {
- "version": "v1.94",
- "date": "2026-11-17",
- "notes": [
-  "Type pills shortened: Doc, Train, Alert, Blank.",
-  "Home screen: a folder button on the left of every project row (move to a folder); always visible.",
-  "Save menu simplified: Save, Duplicate, Open file, Upload photos as icons across the top; recent versions; Saved versions at the foot (red).",
-  "Blank Page: the footer banner repeats the minor title (or the category when there is none); footer blocks 20% narrower on portrait; the GMI end page takes the category colour."
- ],
+ "version": "v1.95",
+ "date": "2026-11-18",
  "zip": "GMI-Templater-App.zip"
 }
